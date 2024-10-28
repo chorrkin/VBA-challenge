@@ -1,9 +1,9 @@
-#VBA Stock Analysis Challenge
+# VBA Stock Analysis Challenge
 
-##Overview
+## Overview
 This project involves creating a VBA script to analyze stock market data across multiple worksheets. The script performs data calculations such as tracking each stock's quarterly change, percent change, and total volume. Additionally, the script applies conditional formatting to highlight positive and negative changes and provides summary statistics including the greatest percentage increase, greatest percentage decrease, and highest volume for each worksheet.
 
-##Process
+## Process
 The script is designed to:
     Loop through each worksheet to calculate the quarterly change, percent change, and volume for each stock.
     Apply conditional formatting to highlight positive changes in green and negative changes in red.
